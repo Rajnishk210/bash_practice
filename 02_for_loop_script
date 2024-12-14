@@ -1,0 +1,11 @@
+#!/bin/bash
+
+for name in Raju babu Rajnsih Anshika Ananya
+do 
+    echo " $name"
+done
+
+for i in {1..12}
+do 
+    echo " $i"
+done
