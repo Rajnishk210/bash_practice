@@ -1,0 +1,10 @@
+#!/bin/bash
+#to create funciton
+myfun() {
+         echo "Hi, I am Rajnish"
+          }
+#To call the function
+myfun
+myfun
+myfun
+
