@@ -1,0 +1,8 @@
+#!/bin/bash
+
+#shifting argument
+echo "Creating user"
+echo "First User name $1"
+
+shift
+echo "Description for user: $@"

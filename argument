@@ -1,0 +1,7 @@
+#!/bin/bash
+
+echo "Frist argument is $1"
+echo "Second argumnet is $2"
+echo "All argument are is $@"
+echo "No. of argument is $#"
+

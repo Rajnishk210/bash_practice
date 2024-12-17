@@ -1,0 +1,11 @@
+#!/bin/bash
+
+function myfun {
+    echo "----------"
+    echo "Welcome $1"
+    echo "age $2"
+    echo "---------"
+}
+#to call
+myfun Rajnish 31
+myfun sonali 25
